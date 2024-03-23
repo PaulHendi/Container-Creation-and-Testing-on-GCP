@@ -1,0 +1,8 @@
+transformers==4.37.0 
+torch==2.1.0 
+datasets==2.17.1 
+accelerate==0.27.0
+scikit-learn==1.4.0 # Needed for the evaluation 
+scipy==1.12.0       # Needed for the evaluation 
+evaluate==0.4.1
+numpy==1.26.4
