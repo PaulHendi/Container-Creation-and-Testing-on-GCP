@@ -1,4 +1,4 @@
-# Question 3 : Container Creation and Testing 
+# Container Creation and Testing 
 
 This folder contains resources and scripts for building a GPU-compatible Docker container with the <img src="./images/HF.png" width="15" height="15"> Transformers library. This setup allows for easy execution of LLM training within a container. 
 
